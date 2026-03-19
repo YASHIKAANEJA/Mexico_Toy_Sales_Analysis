@@ -124,17 +124,10 @@ This project demonstrates how raw data can be transformed into meaningful insigh
 
 ---
 
-## 📷 Dashboard Preview
-
-*(Add screenshots of your Power BI dashboards here)*
-
----
-
 ## 🙌 Acknowledgment
 
 Dataset sourced from **Maven Analytics** for educational and portfolio purposes. (https://app.mavenanalytics.io/datasets?search=sales)
 
 ---
 
-## ⭐ If you found this project useful, feel free to give it a star!
 
