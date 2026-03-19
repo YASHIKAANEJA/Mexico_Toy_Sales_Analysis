@@ -81,9 +81,32 @@ Performed comprehensive EDA to uncover patterns and trends:
 * 829K+ units sold, with an Average Order Value of $17.42, indicating consistent mid-range transactions.
 * Revenue declined by $520K (6.96%) in 2023 vs 2022, signaling a slight downturn in overall sales performance.
 * Clear seasonality observed:
-        *Peak sales during March–July
+        - Peak sales during March–July
+        - Noticeable drop in October–November, followed by a mild recovery in December
+* Toys and Art & Crafts categories dominate sales, each contributing ~26–27% of total revenue.
+* Top-Selling Product: Lego Bricks generated approximately $2.4M revenue, significantly outperforming others.
+* Colorbuds is the most profitable product, contributing $0.83M in profit.
+* Highest Margin Product: Colorbuds with ~39K margin value, indicating strong pricing efficiency.
+* Total of 35 products sold with over 1 million units distributed across categories.
+* Toys category is the largest revenue driver, contributing roughly one-third (~33%) of total revenue.
+* Toys and Electronics together contribute over 50% of total profit, making them key profit centers.
+* Total Stores: 50 generating $14.44M revenue and $4.01M profit.
+* Top-performing store: Maven Toys Ciudad de Mexico 2 with approximately $0.55M revenue.
+* Newer stores (post-2010) show significantly higher performance, with peak store revenue reaching $2.0M.
+* Downtown locations contribute the highest share of revenue, outperforming residential and airport locations.
+* Total Cost: $10.43M, meaning ~72% of revenue is consumed by costs (Cost-to-Revenue Ratio = 0.72).
+* Average Cost per Unit: $9.56, highlighting baseline production/acquisition cost.
+* Average Profit per Sale: $4.84, reflecting healthy unit economics.
+* High-cost products like Lego Bricks generate high revenue but relatively lower margins
+* Products like Colorbuds deliver better profitability efficiency.
 
-
+## 🚀 Overall Business Insights
+* Business maintains strong profitability (27.8%) despite high cost structure.
+* Revenue decline trend in 2023 suggests need for demand generation strategies.
+* Top products and stores drive a large portion of revenue, indicating dependency risk.
+* Seasonality plays a crucial role, requiring better inventory and marketing planning.
+* High-performing categories (Toys, Electronics) should be prioritized for growth.
+* Significant opportunity exists in improving margins for high-cost products and boosting underperforming stores.
 
 ---
 
