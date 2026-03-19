@@ -59,6 +59,7 @@ Performed comprehensive EDA to uncover patterns and trends:
 * Total Revenue, Profit, and Units Sold
 * Monthly and Yearly Sales Trends
 * Revenue distribution by category
+* View here - https://github.com/YASHIKAANEJA/Mexico_Toy_Sales_Analysis/blob/main/Sales%20Overview.png
 
 ### 2️⃣ Product Performance Dashboard
 
@@ -66,12 +67,14 @@ Performed comprehensive EDA to uncover patterns and trends:
 * Revenue and Profit by Product
 * Profit Margin Analysis
 * Category-wise performance insights
+* View here - https://github.com/YASHIKAANEJA/Mexico_Toy_Sales_Analysis/blob/main/Product%20Performance.png
 
 ### 3️⃣ Store Performance Dashboard
 
 * Revenue and Profit by Store
 * City-wise sales analysis
 * Store comparison based on performance metrics
+* View here - https://github.com/YASHIKAANEJA/Mexico_Toy_Sales_Analysis/blob/main/Store%20Performance.png
 
 ### 4️⃣ Profitability & Cost Analysis Dashboard
 
@@ -79,6 +82,7 @@ Performed comprehensive EDA to uncover patterns and trends:
 * Profit Margin (%) trends
 * High-cost low-profit product identification
 * Cost-to-revenue ratio insights
+* View here - https://github.com/YASHIKAANEJA/Mexico_Toy_Sales_Analysis/blob/main/Profitability%20and%20Cost%20Analysis.png
 
 ---
 
