@@ -8,16 +8,6 @@ The project covers the complete analytics workflow — from data exploration and
 
 ---
 
-## 🎯 Objectives
-
-* Analyze sales performance across products, stores, and time
-* Identify high-performing and underperforming products
-* Evaluate store-level performance and regional trends
-* Understand profitability and cost dynamics
-* Build interactive dashboards for business decision-making
-
----
-
 ## 📂 Dataset Description
 
 The dataset includes transactional, product, and store-level data with the following key columns:
@@ -86,12 +76,14 @@ Performed comprehensive EDA to uncover patterns and trends:
 
 ---
 
-## 📈 Key Insights
+## 📊 Key Insights & Findings
+* Total Revenue: $14.44M with Total Profit: $4.01M, resulting in a strong Profit Margin of 27.8%.
+* 829K+ units sold, with an Average Order Value of $17.42, indicating consistent mid-range transactions.
+* Revenue declined by $520K (6.96%) in 2023 vs 2022, signaling a slight downturn in overall sales performance.
+* Clear seasonality observed:
+        *Peak sales during March–July
 
-* Identified top-performing products contributing the highest revenue
-* Detected products with high costs but low profitability
-* Observed regional variations in store performance
-* Highlighted trends in revenue growth and decline over time
+
 
 ---
 
